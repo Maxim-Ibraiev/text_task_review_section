@@ -38,7 +38,7 @@ h1 {
 .review {
   padding: 48px 18px 46px;
 
-  background-image: url("/public/background.jpg");
+  background-image: url("./public/background.jpg");
   background-size: cover;
   background-position: center;
 }
